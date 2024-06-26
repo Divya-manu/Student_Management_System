@@ -15,7 +15,7 @@
 	<description>Demo project for Spring Boot Thymeleaf  and Hibernate</description>
 	<properties>
 		<java.version>17</java.version>
-		<sonar.java.binaries>${project.build.directory}/classes</sonar.java.binaries>
+		
 		<sonar.token>sqa_81bed88ae082887e3bcb8b35a2983c7971b0faca</sonar.token>
 		<sonar.host.url>http://localhost:9000/</sonar.host.url>
 
